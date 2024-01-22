@@ -1,4 +1,4 @@
-![2024 dark web onion links](https://github.com/BigggChungus/onion-links/assets/71761070/89f9effc-cc29-4f87-86dd-f00690ffcffd)
+![Dark web links 2024](logo.png)
 
 A verified list of darknet markets and services with links for educational reference. A verified list of darknet markets and services with links for educational reference. Working dark web links 2024 update. Working dark web links 2024 update.
 Even though each of the .onion links are PGP verified, there's no guarantee that they are without issues. We didn't purchase via these sites, we simply checked to see whether or not they are up and running in 2024. Proceed at your own discretion.
