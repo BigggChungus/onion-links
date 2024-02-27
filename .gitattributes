@@ -1,2 +1,4 @@
+<!-- This directive sets the text mode to auto, allowing automatic handling. 
+     The merge directive ensures a union with the README file. -->
 * text=auto
 readme.md merge=union
