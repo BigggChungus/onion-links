@@ -2,18 +2,29 @@
 
 A verified and functional list of darknet markets and services, accompanied by links for educational reference. Users are strongly advised to adhere to legal and ethical standards. Engaging in illicit activities on the dark web or any other platform is against the law and can have serious consequences. This updated list for 2024 of working dark web links has been meticulously compiled, edited, and maintained. All the provided links are accessible and available.
 Even though each of the .onion links are PGP verified, there's no guarantee that they are without issues. We didn't purchase via these sites, we simply checked to see whether or not they are up and running in 2024. Proceed at your own discretion.
+
+***********
+TOP LINKS:
+
+**DarkWebHackers – Dark Web Hackers For Hire http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/**
+
+**Cardshop – USA & Worldwide CVV KNOWN BALANCE http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6gnlcw3n4qad.onion/**
+
+**Mixabit – Bitcoin mixer http://74ck36pbaxz7ra6n7v5pbpm5n2tsdaiy4f6p775qvjmowxged65n3cid.onion/**
+
+**Onionwallet – Anonymous & secure BTC wallet and mixer http://zwf5i7hiwmffq2bl7euedg6y5ydzze3ljiyrjmm7o42vhe7ni56fm7qd.onion/**
+
+**Account market – Premium Paypal, Ebay and bank accounts. http://z7s2w5vruxbp2wzts3snxs24yggbtdcdj5kp2f6z5gimouyh3wiaf7id.onion/**
+
+**TomAndJerry – Coca, H, MDMA, LSD from NL http://c5xoy22aadb2rqgw3jh2m2irmu563evukqqddu5zjandunaimzaye5id.onion/**
+
+**Dark Mixer – Anonymous Bitcoin mixer http://cr32aykujaxqkfqyrjvt7lxovnadpgmghtb3y4g6jmx6oomr572kbuqd.onion/**
+
+***********
 WORKING DARK WEB LINKS
 Here is a list of working dark web urls that will take you to the most popular Tor sites if you’re searching for dark web URLs or know someone who is. This list of deep web links will assist you in finding the most popular Tor sites. Remember to share and save this list of deep web websites.
-TOP LINKS:
-**DarkWebHackers – Dark Web Hackers For Hire http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/**
-**Cardshop – USA CVV KNOWN BALANCE & Worldwide CC & CVV http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6gnlcw3n4qad.onion/**
-**Mixabit – Bitcoin mixer http://74ck36pbaxz7ra6n7v5pbpm5n2tsdaiy4f6p775qvjmowxged65n3cid.onion/**
-**Onionwallet – Anonymous and secure bitcoin wallet and mixerdarkmix http://zwf5i7hiwmffq2bl7euedg6y5ydzze3ljiyrjmm7o42vhe7ni56fm7qd.onion/**
-**Account market – Premium Paypal, Ebay and bank accounts. http://z7s2w5vruxbp2wzts3snxs24yggbtdcdj5kp2f6z5gimouyh3wiaf7id.onion/**
-**TomAndJerry – Cocaine, Heroin, MDMA and LSD from NL http://c5xoy22aadb2rqgw3jh2m2irmu563evukqqddu5zjandunaimzaye5id.onion/**
-**Dark Mixer – Anonymous bitcoin mixer http://cr32aykujaxqkfqyrjvt7lxovnadpgmghtb3y4g6jmx6oomr572kbuqd.onion/**
+***********
 
-=====================
 Bitcoin mixer http://74ck36pbaxz7ra6n7v5pbpm5n2tsdaiy4f6p775qvjmowxged65n3cid.onion/
 .Onion link directory. http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/
 Biggest European .onion drug store. http://7bw24ll47y7aohhkrfdq2wydg3zvuecvjo63muycjzlbaqlihuogqvyd.onion/
