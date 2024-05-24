@@ -4,6 +4,8 @@ We compiled a list of verified and working links to darknet markets and services
 Even though each of the .onion links are PGP verified, there's no guarantee that they are without issues. We didn't purchase via these sites, so we cannot comment on their quality; we simply checked to see whether or not they are up and running in 2024. 
 Proceed at your own discretion.
 
+**Updated May 2024**
+
 ***********
 TOP LINKS:
 
