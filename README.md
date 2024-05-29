@@ -1,6 +1,6 @@
 ![Dark web links 2024](logo.png)
 
-We compiled a list of verified and working links to darknet markets and services. This is solely for educational reference. Users are strongly advised to adhere to legal and ethical standards. Engaging in illicit activities on the dark web or any other platform is against the law and can have serious consequences. This updated list of .onion links for 2024 is working and all dark web links have been meticulously compiled, edited, and maintained. All the provided links are accessible and available.
+We compiled a list of verified and working links to darknet markets and services. This is solely for educational purposes. Users are strongly advised to adhere to legal and ethical standards. Engaging in illicit activities on the dark web or any other platform is against the law and can have serious consequences. This updated list of .onion links for 2024 is working and all dark web links have been meticulously compiled, edited, and maintained. All the provided links are accessible and available.
 Even though each of the .onion links are PGP verified, there's no guarantee that they are without issues. We didn't purchase via these sites, so we cannot comment on their quality; we simply checked to see whether or not they are up and running in 2024. 
 Proceed at your own discretion.
 
