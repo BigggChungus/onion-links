@@ -1,4 +1,4 @@
-![Dark web links 2024](logo.png)
+![Dark web onion links July 2024](logo.png)
 
 We compiled a list of verified and working links to darknet markets and services. This is solely for educational purposes. Users are strongly advised to adhere to legal and ethical standards. Engaging in illicit activities on the dark web or any other platform is against the law and can have serious consequences. This updated list of .onion links for 2024 is working and all dark web links have been meticulously compiled, edited, and maintained. All the provided links are accessible and available.
 Even though each of the .onion links are PGP verified, there's no guarantee that they are without issues. We didn't purchase via these sites, so we cannot comment on their quality; we simply checked to see whether or not they are up and running in 2024. 
@@ -232,15 +232,13 @@ http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/ SystemLI.
 
 http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion/ Elude.in
 
-http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/ Kill9
-
-http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/ DanielWin
-
 http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/ Darknetlive
 
 http://cathug2kyi4ilneggumrenayhuhsvrgn6qv2y47bgeet42iivkpynqad.onion/ cathugger’s site
 
-http://cathug2kyi4ilneggumrenayhuhsvrgn6qv2y47bgeet42iivkpynqad.onion/ cathugger’s site
+http://killnod2s77o3axkktdu52aqmmy4acisz2gicbhjm4xbvxa2zfftteyd.onion/ Kill9
+
+http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/ DanielWin
 
 You can find more in the gist on my profile at https://gist.github.com/BigggChungus/5e126cb44399878d6ed0db08df484a21
 
